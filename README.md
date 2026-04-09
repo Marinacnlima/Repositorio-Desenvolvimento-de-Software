@@ -31,6 +31,13 @@ uso de branches, Pull Requests e resolução de conflitos — e não no produto 
 | [ex02-branches](exercicios/ex02-branches/) | Criação e merge de branches com propósitos distintos |
 | [ex03-conflito](exercicios/ex03-conflito/) | Demonstração e resolução de merge conflict |
 
+## Como navegar
+
+- Comece pelo [ex01-commits](exercicios/ex01-commits/exemplos.md) para entender o padrão de commits usado
+- Veja o [ex02-branches](exercicios/ex02-branches/guia.md) para o fluxo de branches adotado
+- Leia o [ex03-conflito](exercicios/ex03-conflito/REGISTRO.md) para o registro do merge conflict
+- Consulte [REFLEXAO.md](REFLEXAO.md) para a reflexão pessoal sobre o processo
+
 ## Autora
 
 Marina Cabral Nogueira Lima — [@marinacnlima](https://github.com/marinacnlima)
