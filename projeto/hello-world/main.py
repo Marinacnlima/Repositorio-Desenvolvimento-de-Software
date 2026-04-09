@@ -14,9 +14,14 @@ def despedir(nome):
     return f"Até logo, {nome_valido}! Foi um prazer."
 
 
+def cumprimentar_lista(nomes):
+    return [saudar(n) for n in nomes]
+
+
 def main():
-    print(saudar("Mundo"))
-    print(despedir("Mundo"))
+    nomes = ["Mundo", "Marina", "Git"]
+    for msg in cumprimentar_lista(nomes):
+        print(msg)
 
 
 if __name__ == "__main__":
